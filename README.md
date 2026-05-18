@@ -11,11 +11,19 @@ A Claude Code plugin for practicing LeetCode problems interactively.
 
 ## Installation
 
+First, add the marketplace:
+
 ```
-/install leetcode-playground@leetcode-playground
+/plugin marketplace add flyingice/leetcode-playground
 ```
 
-Or browse in `/plugin > Discover` after adding this marketplace.
+Then install the plugin:
+
+```
+/plugin install leetcode-playground@leetcode-playground
+```
+
+Or browse in `/plugin > Discover` after adding the marketplace.
 
 ## Usage
 
