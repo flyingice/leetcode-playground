@@ -1,0 +1,11 @@
+{
+  "name": "leetcode-playground",
+  "description": "Practice LeetCode problems interactively — show the problem, code in your preferred language, then validate with comprehensive tests.",
+  "version": "1.0.0",
+  "author": {
+    "name": "flyingice"
+  },
+  "license": "MIT",
+  "keywords": ["leetcode", "algorithms", "coding-practice", "interview-prep"],
+  "skills": ["./skills/leetcode-playground"]
+}

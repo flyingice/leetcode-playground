@@ -1,0 +1,29 @@
+{
+  "name": "leetcode-playground",
+  "id": "leetcode-playground",
+  "owner": {
+    "name": "flyingice"
+  },
+  "metadata": {
+    "description": "Practice LeetCode problems interactively in Claude Code",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "leetcode-playground",
+      "source": "./",
+      "description": "Practice LeetCode problems interactively — show the problem, code in your preferred language, then validate with comprehensive tests.",
+      "version": "1.0.0",
+      "author": {
+        "name": "flyingice"
+      },
+      "keywords": [
+        "leetcode",
+        "algorithms",
+        "coding-practice",
+        "interview-prep"
+      ],
+      "category": "development"
+    }
+  ]
+}
